@@ -1,14 +1,16 @@
-# Hi, I'm Patrick! :)
-####  These are my first steps on github, until early 2023 I will only use this account for studies related to CTISM, the school I am currently at (2021 - Veteran).
+# Oi, eu sou Patrick! :)
+#### Esses são meus primeiros passos no github, até o início de 2023 só usarei essa conta para estudos relacionados ao CTISM, a escola que estou atualmente (2020 - Bixo), (2021 - Veterano), (2022 - Voterano).
 ---
-**Making this page is my first job, but without knowing what to do I will try to do something.**
+**Fazer esta página é meu primeiro trabalho, mas sem saber o que fazer vou tentar fazer alguma coisa.**
 
 ---
-Currently, I'm studying at CTISM where I'm in the second year of high school integrated in computer technician (2020). Finishing up at the end of next year, I don't know what I'm going to follow as a profession but I have in mind to follow in the field of information or more specific Marketing on social networks.
+Atualmente, estou a estudar no CTISM onde estou no segundo ano do ensino secundário integrado em técnico de informática (2020). A terminar no final do próximo ano, não sei o que vou seguir como profissão mas tenho em mente seguir na área da informação ou mais especificamente no Marketing nas redes sociais.
 
-So far I've learned some things like HTML, Javascript, the basics of programming and a little bit more, I don't think anything very deep, so I'm not sure if I'll continue in this area.
+Até agora aprendi algumas coisas como HTML, Javascript, o básico de programação e um pouco mais, não acho nada muito profundo, então não tenho certeza se vou continuar nessa área.
 
-I love sports, even if I don't practice as I should at the moment. The ones I like the most are **montun bike**, **rafting**, **motocros**, **rappelling**, all of which involve nobility. As much as I still don't practice all of them, I know I'll go regardless of what I'm going to work with. I like electronic sports too, preferring battle royale.
+Adoro esportes, mesmo que não pratique como deveria no momento. Os que mais gosto são **montun bike**, **rafting**, **motocros**, **rappelling**, todos envolvendo nobreza. Por mais que eu ainda não pratique todos, sei que irei independente do que for trabalhar. Também gosto de esportes eletrônicos, preferindo o battle royale.
+
+### Oi, é a info - CTISM/UFSM
 
 ### Social networks
 -   [Intagram](https://www.instagram.com/patrick_gabriel_dias_04/)
