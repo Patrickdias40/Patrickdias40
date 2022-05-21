@@ -4,9 +4,14 @@
 **Fazer esta página é meu primeiro trabalho, mas sem saber o que fazer vou tentar fazer alguma coisa.**
 
 ---
-Atualmente, estou a estudar no CTISM onde estou no segundo ano do ensino secundário integrado em técnico de informática (2020). A terminar no final do próximo ano, não sei o que vou seguir como profissão mas tenho em mente seguir na área da informação ou mais especificamente no Marketing nas redes sociais.
+Atualmente estudo no CTISM onde estou no terceiro ano do ensino médio integrado em técnico de informática(2022). A terminar no final do ano, não sei o que vou seguir como profissão mas tenho em mente seguir na área da informação ou mais especificamente desenvolvimento web DEV.
 
-Até agora aprendi algumas coisas como HTML, Javascript, o básico de programação e um pouco mais, não acho nada muito profundo, então não tenho certeza se vou continuar nessa área.
+* HTML
+* CSS
+* Python
+* JS (basico)
+* Banco de dados (basico)
+* Redes (basico)
 
 Adoro esportes, mesmo que não pratique como deveria no momento. Os que mais gosto são **montun bike**, **rafting**, **motocros**, **rappelling**, todos envolvendo nobreza. Por mais que eu ainda não pratique todos, sei que irei independente do que for trabalhar. Também gosto de esportes eletrônicos, preferindo o battle royale.
 
