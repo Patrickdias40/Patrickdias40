@@ -1,8 +1,8 @@
 # Oi, eu sou Patrick, tenho 19 anos.  :)
 
-Formado no CTISM. Ao terminar em 02/2023, Pretendo seguir na área com Ciências da computação, Sistemas de informação ou Sistemas para Internet na UFSM.
+Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atualmente em frontend e design web, mas deixar delado backend e outras ramificação.
 
-Adoro esportes, mesmo que não pratique como deveria no momento. Os que mais gosto são **montun bike**, **rafting**, **motocros**, **rappelling**. Também gosto de esportes eletrônicos, preferindo o battle royale.
+Adoro esportes, atualmente fazendo academia e recomendo qualquer pessoa a fazer. Os que mais gosto são **montun bike**, **rafting**, **motocros**, **rappelling**. Também gosto de esportes eletrônicos.
 
 ## Habilidades:
 
@@ -14,6 +14,7 @@ Adoro esportes, mesmo que não pratique como deveria no momento. Os que mais gos
 * JS (básico)
 * Banco de dados (básico)
 * Redes (básico)
+* Conhecimento geral de marketing e muita criatividade...
 
 ### Informática para internet - CTISM/UFSM
 
