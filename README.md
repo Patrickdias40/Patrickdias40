@@ -2,7 +2,7 @@
 
 Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atualmente em frontend e design web, mas deixar delado backend e outras ramificação.
 
-Adoro esportes, atualmente fazendo academia e recomendo qualquer pessoa a fazer. Os que mais gosto são **montun bike**, **rafting**, **motocros**, **rappelling**. Também gosto de esportes eletrônicos.
+Adoro esportes, atualmente fazendo academia e recomendo qualquer pessoa a fazer. Os que mais gosto são **montun bike**, **rafting**, **motocros**, entre outros. Também gosto de esportes eletrônicos.
 
 ## Habilidades:
 
