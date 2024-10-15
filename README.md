@@ -4,6 +4,7 @@ Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atua
 
 ## Habilidades:
 
+##CSS
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 
