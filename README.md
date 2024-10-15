@@ -1,8 +1,6 @@
-# Oi, eu sou Patrick, tenho 19 anos.  :)
+# Oi, eu sou Patrick, tenho 20 anos.  :)
 
-Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atualmente em frontend e design web, mas deixar delado backend e outras ramificação.
-
-Adoro esportes, atualmente fazendo academia e recomendo qualquer pessoa a fazer. Os que mais gosto são **montun bike**, **rafting**, **motocros**, entre outros. Também gosto de esportes eletrônicos.
+Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atualmente em frontend e design web, mas sem deixar delado backend e outras ramificação.
 
 ## Habilidades:
 
