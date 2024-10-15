@@ -3,9 +3,9 @@
 Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atualmente em frontend e design web, mas sem deixar delado backend e outras ramificação.
 
 ## Habilidades:
-![HTML](img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg")
 ![Markdown](https://img.shields.io/badge/Markdown-1?style=for-the-badge&color=black&logo=markdown&logoColor=white)
-![CSS](link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css")
+![CSS]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
 * CSS
 * C (básico)
 * Python
