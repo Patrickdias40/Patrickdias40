@@ -4,7 +4,8 @@ Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atua
 
 ## Habilidades:
 
-* HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 * CSS
 * C (básico)
 * Python
