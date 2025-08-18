@@ -17,6 +17,6 @@ Formado no Colégio Técnico Intregado de Santa Maria(UFSM). Pretendo focar atua
 ### Informática para internet - CTISM/UFSM
 
 ### Social networks
--   [Intagram]([https://www.instagram.com/patrick_gd_04/](https://www.instagram.com/pgd040/))
+-   [Intagram](https://www.instagram.com/pgd040/)
 
 **Email: patrickgabreildias40@gmail.com**
