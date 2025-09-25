@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 <p align="justify">
-  Olá, sou **Patrick Gabriel Dias**. Sou formado pelo Colégio Técnico Integrado de Santa Maria (UFSM) como **Técnico em Informática para Internet** e atualmente curso **Sistemas de Informação**, com foco em constante aprendizado e evolução na área. Tenho grande interesse em desenvolvimento front-end, por me considerar uma pessoa criativa, com espírito empreendedor e motivada a transformar ideias em projetos funcionais. Esse interesse nasceu ainda durante minha formação técnica e sigo aprimorando minhas habilidades nesse caminho. Atualmente, atuo há **2 anos na área de informática no Exército Brasileiro**.
+  Olá, sou Patrick Gabriel Dias. Sou formado pelo Colégio Técnico Integrado de Santa Maria (UFSM) como Técnico em Informática para Internet e atualmente curso Sistemas de Informação, com foco em constante aprendizado e evolução na área. Tenho grande interesse em desenvolvimento front-end, por me considerar uma pessoa criativa, com espírito empreendedor e motivada a transformar ideias em projetos funcionais. Esse interesse nasceu ainda durante minha formação técnica e sigo aprimorando minhas habilidades nesse caminho. Atualmente, atuo há 2 anos na área de informática no Exército Brasileiro.
 </p>
 
 <br/>
