@@ -3,8 +3,11 @@
 **`Desenvolvedor Front-End`**
 
 <p align="justify">
-  Olá, sou Patrick Gabriel Dias, formado no Colégio Técnico Intregado de Santa Maria(UFSM), como Técnico em Informática para Internet. Atualmente cursando Sistemas de Informação, com o  objetivo evolução, busco foco em aprendizado na área, já que acho fundamental para uma formação de qualidade. Meu objetivo é front-end por me considerar uma pessoa criativa, curiosa, pouco detalhista, algo que me interessei mais des do meu técnico. No momento trabalho na parte de informática pelo Exército, há 2 anos.
+  Olá, sou **Patrick Gabriel Dias**. Sou formado pelo Colégio Técnico Integrado de Santa Maria (UFSM) como **Técnico em Informática para Internet** e atualmente curso **Sistemas de Informação**, com foco em constante aprendizado e evolução na área. Tenho grande interesse em desenvolvimento front-end, por me considerar uma pessoa criativa, com espírito empreendedor e motivada a transformar ideias em projetos funcionais. Esse interesse nasceu ainda durante minha formação técnica e sigo aprimorando minhas habilidades nesse caminho. Atualmente, atuo há **2 anos na área de informática no Exército Brasileiro**.
 </p>
+
+<br/>
+<br/>
 
 ## Habilidades:
 
@@ -54,7 +57,9 @@
 
 <p align="center">
   <a href="https://www.instagram.com/pgd040/">
-    <img alt="INSTAGRAM" title="INSTAGRAM" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8D9699?style=for-the-badge&logo=instagram"/>
+    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8D9699?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img cursor="text" alt="EMAIL" title="EMAIL"  src="https://custom-icon-badges.demolab.com/badge/patrickgabreildias40@gmail.com-8D9699?style=for-the-badge&logo=emailwhite&cursor=text"/>
+  <a href="mailto:patrickgabrieldias40@gmail.com">
+    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/EMAIL-8D9699?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
 </p>
