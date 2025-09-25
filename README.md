@@ -57,9 +57,9 @@
 
 <p align="center">
   <a href="https://www.instagram.com/pgd040/">
-    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8D9699?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-1C4859?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:patrickgabrieldias40@gmail.com">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/EMAIL-8D9699?style=for-the-badge&logo=maildotru&logoColor=white"/>
+    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/EMAIL-327C8C?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
 </p>
