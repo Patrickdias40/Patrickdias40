@@ -1,11 +1,12 @@
-# 👨🏽‍💻 Patrick Gabriel Dias :)
+# 👨🏽‍💻 Patrick Gabriel Dias :) <img align="right" width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/df5e9bdc-8b50-467f-8693-d55c3799c6e5" />
 
-[![Desenvolvedor Front-End][20]][20]
+**`Desenvolvedor Front-End`**
 
-Olá, sou Patrick Gabriel Dias, formado no Colégio Técnico Intregado de Santa Maria(UFSM), como Técnico em Informática para Internet. Atualmente cursando Sistemas de Informação, com o  objetivo evolução, busco foco em aprendizado na área, já que acho fundamental para uma formação de qualidade. Meu objetivo é front-end por me considerar uma pessoa criativa, curiosa, pouco detalhista, algo que me interessei mais des do meu técnico. 
-No momento trabalho na parte de informática pelo [Exército](https://www.eb.mil.br/), há 2 anos  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/a3ed0b80-42c0-4067-85a3-33b1fb00b5b7" />
+<p align="justify">
+  Olá, sou Patrick Gabriel Dias, formado no Colégio Técnico Intregado de Santa Maria(UFSM), como Técnico em Informática para Internet. Atualmente cursando Sistemas de Informação, com o  objetivo evolução, busco foco em aprendizado na área, já que acho fundamental para uma formação de qualidade. Meu objetivo é front-end por me considerar uma pessoa criativa, curiosa, pouco detalhista, algo que me interessei mais des do meu técnico. No momento trabalho na parte de informática pelo Exército, há 2 anos.
+</p>
 
-## 👨‍💻 Habilidades:
+## Habilidades:
 
 <img
   align="left"
@@ -23,7 +24,6 @@ No momento trabalho na parte de informática pelo [Exército](https://www.eb.mil
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   />
-<p></p>
 <img
   align="left"
   alt="C"
@@ -49,18 +49,12 @@ No momento trabalho na parte de informática pelo [Exército](https://www.eb.mil
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
  
+<br/>
+<br/>
 
-### Social networks
-
-<a href="https://www.instagram.com/pgd040/">
-  <img
-    align="left"
-    alt="Insta"
-    title="Instagram"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000&style=for-the-badge&labelColor=E63E12"
-  />
-</a>
-
-**Email: patrickgabreildias40@gmail.com**
+<p align="center">
+  <a href="https://www.instagram.com/pgd040/">
+    <img alt="INSTAGRAM" title="INSTAGRAM" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8D9699?style=for-the-badge&logo=instagram"/>
+  </a>
+  <img alt="EMAIL" title="EMAIL" src="https://custom-icon-badges.demolab.com/badge/patrickgabreildias40@gmail.com-8D9699?style=for-the-badge&logo=email-10"/>
+</p>
