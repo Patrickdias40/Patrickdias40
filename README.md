@@ -56,5 +56,5 @@
   <a href="https://www.instagram.com/pgd040/">
     <img alt="INSTAGRAM" title="INSTAGRAM" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8D9699?style=for-the-badge&logo=instagram"/>
   </a>
-  <img cursor="copy" alt="EMAIL" title="EMAIL"  src="https://custom-icon-badges.demolab.com/badge/patrickgabreildias40@gmail.com-8D9699?style=for-the-badge&logo=emailwhite"/>
+  <img cursor="text" alt="EMAIL" title="EMAIL"  src="https://custom-icon-badges.demolab.com/badge/patrickgabreildias40@gmail.com-8D9699?style=for-the-badge&logo=emailwhite&cursor=text"/>
 </p>
